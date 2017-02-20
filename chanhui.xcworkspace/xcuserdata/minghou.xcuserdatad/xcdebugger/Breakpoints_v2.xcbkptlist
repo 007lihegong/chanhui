@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chanhui/thirdClass/UdeskSDK/UDChatMessage/UDFAQ/Controller/UdeskSearchController.h"
+            timestampString = "508144784.017525"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "searchDisplayController"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UdeskSearchController searchDisplayController]"
+                  moduleName = "&#x94f2;&#x7070;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minghou/Desktop/chanhui/chanhui/thirdClass/UdeskSDK/UDChatMessage/UDFAQ/Controller/UdeskSearchController.h"
+                  timestampString = "508930722.302299"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UdeskSearchController setSearchDisplayController:]"
+                  moduleName = "&#x94f2;&#x7070;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/minghou/Desktop/chanhui/chanhui/thirdClass/UdeskSDK/UDChatMessage/UDFAQ/Controller/UdeskSearchController.h"
+                  timestampString = "508930722.305408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
